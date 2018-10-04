@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1,US_CBS
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2852.ts
+#EXTINF:-1,US_TSN 1
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2248.ts
+#EXTINF:-1,US_TSN 2
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2249.ts
+#EXTINF:-1,US_TSN 3
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2250.ts
+#EXTINF:-1,US_TSN 4
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2251.ts
+#EXTINF:-1,US_TSN 5
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2252.ts
+#EXTINF:-1,US_Network
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2851.ts
+#EXTINF:-1,US_NFL_LIVE
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2850.ts
+#EXTINF:-1,US_WWE_Network
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2848.ts
+#EXTINF:-1,US_Fox Sports  1
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2254.ts
+#EXTINF:-1,US_Fox Sports  2
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2255.ts
+#EXTINF:-1,US_FIGHT_SPORT
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2853.ts
+#EXTINF:-1,US_NBC_SPORT
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2854.ts
+#EXTINF:-1,US_NBA
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2253.ts
+#EXTINF:-1,US_ESPN
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2256.ts
+#EXTINF:-1,US_HBO
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2855.ts
+#EXTINF:-1,US_Nasa
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2849.ts
+
+#EXTINF:-1,CA | A&E
+http://wildsides.xyz:2086/live/ola/12345/12158.ts
+#EXTINF:-1,CA | ABC SPARK
+http://wildsides.xyz:2086/live/ola/12345/12157.ts
+#EXTINF:-1,CA | ACTION
+http://wildsides.xyz:2086/live/ola/12345/13978.ts
+#EXTINF:-1,CA | ADDIK TV
+http://wildsides.xyz:2086/live/ola/12345/13977.ts
+#EXTINF:-1,CA | AMC
+http://wildsides.xyz:2086/live/ola/12345/13975.ts
+#EXTINF:-1,CA | AMC
+http://wildsides.xyz:2086/live/ola/12345/12156.ts
+#EXTINF:-1,CA | AMERICAN HEROES CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/13976.ts
+#EXTINF:-1,CA | ANIMAL PLANET
+http://wildsides.xyz:2086/live/ola/12345/13974.ts
+#EXTINF:-1,CA | APTN
+http://wildsides.xyz:2086/live/ola/12345/13973.ts
+#EXTINF:-1,CA | ARTV
+http://wildsides.xyz:2086/live/ola/12345/13972.ts
+#EXTINF:-1,CA | BBC CANADA
+http://wildsides.xyz:2086/live/ola/12345/13971.ts
+#EXTINF:-1,CA | BBC KIDS
+http://wildsides.xyz:2086/live/ola/12345/13970.ts
+#EXTINF:-1,CA | BBC WORLD NEWS
+http://wildsides.xyz:2086/live/ola/12345/13969.ts
+#EXTINF:-1,CA | BEIN SPORTS CANADA
+http://wildsides.xyz:2086/live/ola/12345/13968.ts
+#EXTINF:-1,CA | BET
+http://wildsides.xyz:2086/live/ola/12345/13967.ts
+#EXTINF:-1,CA | BNN
+http://wildsides.xyz:2086/live/ola/12345/13966.ts
+#EXTINF:-1,CA | BOOK TV
+http://wildsides.xyz:2086/live/ola/12345/13965.ts
+#EXTINF:-1,CA | BRAVO
+http://wildsides.xyz:2086/live/ola/12345/13964.ts
+#EXTINF:-1,CA | CANADIAN ARAB TV
+http://wildsides.xyz:2086/live/ola/12345/3952.ts
+#EXTINF:-1,CA | CANAL D
+http://wildsides.xyz:2086/live/ola/12345/13963.ts
+#EXTINF:-1,CA | CANAL SAVOIR
+http://wildsides.xyz:2086/live/ola/12345/13962.ts
+#EXTINF:-1,CA | CARTOON NETWORK
+http://wildsides.xyz:2086/live/ola/12345/13961.ts
+#EXTINF:-1,CA | CASA
+http://wildsides.xyz:2086/live/ola/12345/13960.ts
+#EXTINF:-1,CA | CBC MONTREAL
+http://wildsides.xyz:2086/live/ola/12345/13959.ts
+#EXTINF:-1,CA | CBC NEWS
+http://wildsides.xyz:2086/live/ola/12345/13958.ts
+#EXTINF:-1,CA | CBC OTTAWA
+http://wildsides.xyz:2086/live/ola/12345/13957.ts
+#EXTINF:-1,CA | CBC TORONTO
+http://wildsides.xyz:2086/live/ola/12345/13956.ts
+#EXTINF:-1,CA | CBC VANCOUVER
+http://wildsides.xyz:2086/live/ola/12345/13955.ts
+#EXTINF:-1,CA | CHCH
+http://wildsides.xyz:2086/live/ola/12345/13954.ts
+#EXTINF:-1,CA | CINEPOP
+http://wildsides.xyz:2086/live/ola/12345/13953.ts
+#EXTINF:-1,CA | CITY MONTREAL
+http://wildsides.xyz:2086/live/ola/12345/13815.ts
+#EXTINF:-1,CA | CITY SASKATCHEWAN
+http://wildsides.xyz:2086/live/ola/12345/13814.ts
+#EXTINF:-1,CA | CITY TORONTO
+http://wildsides.xyz:2086/live/ola/12345/13952.ts
+#EXTINF:-1,CA | CITY VANCOUVER
+http://wildsides.xyz:2086/live/ola/12345/13951.ts
+#EXTINF:-1,CA | CITY WINNIPEG
+http://wildsides.xyz:2086/live/ola/12345/13813.ts
+#EXTINF:-1,CA | CMT
+http://wildsides.xyz:2086/live/ola/12345/13950.ts
+#EXTINF:-1,CA | CNN
